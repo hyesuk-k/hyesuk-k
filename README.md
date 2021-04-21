@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyesuk-k
-- 👀 I’m interested in Image Processing with ML & Network
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in Image Processing, ML, Network,
+- 🌱 I’m currently learning C, C++, Python, Shell script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
