@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyesuk-k
+- 👋 Hi, I’m @hyesukk
 - 👀 I’m interested in Image Processing, ML, Network,
 - 🌱 I’m currently learning C, C++, Python, Shell script
 
