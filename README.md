@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyesukk
-- 👀 I’m interested in Image Processing, ML, Security of Network
+- 👀 I’m interested in Cloud, ML, Security of Network
 - 📚 I’m currently learning C++, Go Lang
 - 🌱 I'v been using C, Shell script and python for years, also even now.
 
