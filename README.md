@@ -17,8 +17,13 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white&style=flat-square">
-
 </dev>
+
+## WhoAmI
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zi9zi)](https://solved.ac/zi9zi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesukk&layout=compact&theme=dracula)
 
 <!---
 hyesuk-k/hyesuk-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
