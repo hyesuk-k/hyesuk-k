@@ -2,21 +2,37 @@
 - 👀 I’m interested in Cloud, Security of Network, Mordern C++
 
 ## 💡 Tech Stack
+
+<b>Language</b>
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square">
+</div>
+
+<b>SCM</b>
+<div>
 <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=flat-square">
+</div>
+
+<b>IDE</b>
+<div>
 <img src="https://img.shields.io/badge/vim-019733?logo=vim&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=flat-square">
+</div>
+
+<b>Env.</b>
+<div>
+<img src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/raspberry_pi-A22846?&style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
 </div>
 
 ## 📚 To learning 🌱
 <div>
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style=flat-square">
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white&style=flat-square">
 </dev>
 
 ## WhoAmI
